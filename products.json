@@ -1,10 +1,18 @@
 [
     {
-        "id": "02",
+        "id": "01",
         "name": "Leite integral Jussara",
         "brand": "Jussara",
         "measure": "1L",
         "barcode": "7896283800801",
+        "class": "Laticinios"
+    },
+        {
+        "id": "02",
+        "name": "Leite desnatado Jussara",
+        "brand": "Jussara",
+        "measure": "1L",
+        "barcode": "7896283800818",
         "class": "Laticinios"
     }
 ]
