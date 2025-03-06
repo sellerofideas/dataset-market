@@ -22,5 +22,13 @@
         "measure": "12g",
         "barcode": "7896327513919",
         "class": "Gelatina"
+    },
+     {
+        "id": "04",
+        "name": "Arroz Saboroso tipo 1",
+        "brand": "Saboroso",
+        "measure": "5kg",
+        "barcode": "7896584300031",
+        "class": "Cereais"
     }
 ]
