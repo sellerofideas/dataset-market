@@ -14,5 +14,13 @@
         "measure": "1L",
         "barcode": "7896283800818",
         "class": "Laticinios"
+    },
+      {
+        "id": "03",
+        "name": "Gelatina Zero Açucar",
+        "brand": "Aptiva",
+        "measure": "12g",
+        "barcode": "7896327513919",
+        "class": "Gelatina"
     }
 ]
