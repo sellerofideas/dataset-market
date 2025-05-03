@@ -31,4 +31,12 @@
         "barcode": "7896584300031",
         "class": "Cereais"
     }
+    {
+        "id": "05",
+        "name": "Italac Integral",
+        "brand": "Italac",
+        "measure": "1L",
+        "barcode": "7898080640611",
+        "class": "Laticinios"
+    }
 ]
